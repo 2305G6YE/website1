@@ -6,6 +6,8 @@
 <h3>Intentions</h3>
 <p>I solidified my understandings in the basic flexbox properties because of the supplementary readings provided in the alignment section of the course specifically. I hope to compare my methodology of how I tackle building this website to how I used to in the past with other projects (like <a href="https://github.com/2305G6YE/recipe-card">my recipe card project</a> and <a href="https://github.com/2305G6YE/odin-recipes">my recipe pages project</a>). That would be a solid indicator to me that I learnt tangible skills I can use in the workforce.
 
+CREDITS: <a href="https://www.pexels.com/photo/black-billboard-with-pink-text-5745014/">Ryutaro Tsukata</a> for placeholder image in the website.
+
 <h3>Takeaways</h3>
 <p><small><i>To be added</i></small></p>
 
