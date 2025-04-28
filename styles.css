@@ -1,9 +1,8 @@
-
-body {
+* {
+    /*border: 1px solid red; */
     box-sizing: border-box;
-    font-family: Roboto, Helvetica, serif;
     margin: 0;
-    padding: 0;
+    font-family: Roboto, Helvetica, serif;
 }
 
 .setting {
@@ -25,15 +24,15 @@ body {
 .overview {
     display: flex;
     margin-top: 8%; 
-    align-items: flex-start;
     justify-content: space-between;
 }
 
 .internal {
     display: flex;
     flex-wrap: wrap;
-    width: 42%;
-
+    align-items: flex-start;
+    width: 500px;
+    height: 250px;
 }
 
 .internal h1 {
@@ -44,7 +43,7 @@ body {
 }
 
 .overview img {
-    width: 51%;
+    width: 515px;
 }
 
 .tip {
@@ -90,4 +89,19 @@ body {
     border-radius: 10px;
     font-size: 17px;
     font-weight: 900;
+}
+
+.second-frame {
+    background-color: white;
+    height: 530px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.second-frame h1 {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    padding: 48px;
 }
