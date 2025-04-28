@@ -1,6 +1,7 @@
+
 body {
     box-sizing: border-box;
-    font-family: Roboto, "Arial", serif;
+    font-family: Roboto, Helvetica, serif;
     margin: 0;
     padding: 0;
 }
@@ -12,17 +13,18 @@ body {
 }
 
 .container {
-    width: 80%
+    width: 1440px;
 }
 
 .top {
     background-color: #1F2937;
+    height: 530px;
 
 }
 
 .overview {
     display: flex;
-    margin-top: 10%; 
+    margin-top: 8%; 
     align-items: flex-start;
     justify-content: space-between;
 }
@@ -31,37 +33,61 @@ body {
     display: flex;
     flex-wrap: wrap;
     width: 42%;
+
 }
 
 .internal h1 {
     font-size: 48px;
     color: #f9faf8;
     font-weight: 900;
+    margin-bottom: -12px;
 }
 
 .overview img {
-    width: 50%;
-    height: 50%;
+    width: 51%;
 }
 
 .tip {
     display: flex;
     justify-content: space-between;
+    padding-top: 18px;
 }
 
 .overview,
 .tip {
-    margin-left: 15%;
-    margin-right: 15%
+    margin-left: 14.5%;
+    margin-right: 14.7%
 }
 
 .logo {
     font-size: 24px;
     color: #f9faf8;
+    font-weight: 900;
 }
 
 .tip a,
 .overview p {
     font-size: 18px;
     color: #e5e7eb;
+}
+
+.tip a {
+    text-decoration: none;
+}
+
+.directory {
+    width: 424px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+}
+
+.internal button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 8px 32px;
+    margin-top: -5px;
+    border-radius: 10px;
+    font-size: 17px;
+    font-weight: 900;
 }
