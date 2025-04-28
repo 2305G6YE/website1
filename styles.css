@@ -1,13 +1,67 @@
 body {
     box-sizing: border-box;
-    font-family: "Roboto";
+    font-family: Roboto, "Arial", serif;
+    margin: 0;
+    padding: 0;
+}
+
+.setting {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 80%
 }
 
 .top {
     background-color: #1F2937;
+
+}
+
+.overview {
+    display: flex;
+    margin-top: 10%; 
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.internal {
+    display: flex;
+    flex-wrap: wrap;
+    width: 42%;
+}
+
+.internal h1 {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
 }
 
 .overview img {
-    width: 30%;
-    height: 30%;
+    width: 50%;
+    height: 50%;
+}
+
+.tip {
+    display: flex;
+    justify-content: space-between;
+}
+
+.overview,
+.tip {
+    margin-left: 15%;
+    margin-right: 15%
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.tip a,
+.overview p {
+    font-size: 18px;
+    color: #e5e7eb;
 }
