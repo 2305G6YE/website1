@@ -9,7 +9,7 @@
 CREDITS: <a href="https://www.pexels.com/photo/black-billboard-with-pink-text-5745014/">Ryutaro Tsukata</a> for placeholder image in the website.
 
 <h3>Takeaways</h3>
-<p><small><i>To be added</i></small></p>
+<p>The biggest help to me in this project is finding a way to display the flex-containers. I will likely be using some similar method when learning grid so I can visualize things easier. It was more difficult to arrange things using flexbox than I originally thought. However, i liked that I seemed to be able to imagine how the containers should be written in the HTML file easier compared to my previous projects. "Ah, this needs its own container, that needs to be aligned with this, or standing on its own" - that kind of troubleshooting mindset. I think the next few ideas I want to clear in my head is how to tweak alignment more smoothly if I wish to use padding. Granted, this was a mimicry project, so the font-weights and font-sizes are not crystal-perfect, but I am happy I attempted to make it perfect.</p>
 
-<p><small><i>Last Updated: 25th April 2025</i></small></p>
+<p><small><i>Last Updated: 30th April 2025</i></small></p>
 
